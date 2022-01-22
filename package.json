@@ -1,0 +1,13 @@
+{
+  "name": "auto-module-linking",
+  "version": "1.0.0",
+  "description": "Auto module linking",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "link": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ali Talip ÇALIKOĞLU <acalikoglu@outlook.com>",
+  "license": "MIT"
+}
