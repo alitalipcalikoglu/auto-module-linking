@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "link": "node index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Ali Talip ÇALIKOĞLU <acalikoglu@outlook.com>",
