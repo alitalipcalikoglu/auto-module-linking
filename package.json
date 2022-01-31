@@ -4,10 +4,10 @@
   "description": "Auto module linking",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "keywords": [],
+  "keywords": [
+    "link module",
+    "local module"
+  ],
   "author": "Ali Talip ÇALIKOĞLU <acalikoglu@outlook.com>",
   "license": "MIT"
 }

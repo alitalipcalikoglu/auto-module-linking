@@ -1,6 +1,7 @@
 import fs from 'fs'
 
 export const detectModules = (modulesRootPath) => {
+  if (modulesRootPath[modulesRootPath.length - 1] !== '/') modulesRootPath += '/'
   if (!fs.existsSync(modulesRootPath)) return console.log('The "modules" folder does not exist.')
   const modulesDirectory = fs.readdirSync(modulesRootPath)
   const modules = []
