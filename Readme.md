@@ -22,7 +22,7 @@ console output :
 
 Type local modules folder path and then press enter.
 
-### Egxample
+### Example
 
 Your local modules folder is called `my-modules`
 type `link-modules` in terminal and press `enter`
