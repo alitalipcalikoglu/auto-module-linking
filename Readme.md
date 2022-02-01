@@ -10,7 +10,7 @@ npm i -g auto-module-linking
 
 ## Usage
 
-type "link-modules" in terminal and press enter
+type "link-modules" in terminal and press enter.
 
 ```sh
 link-modules
