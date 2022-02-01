@@ -8,6 +8,9 @@
     "link module",
     "local module"
   ],
+  "bin": {
+    "link-modules": "index.js"
+  },
   "author": "Ali Talip ÇALIKOĞLU <acalikoglu@outlook.com>",
   "license": "MIT"
 }
